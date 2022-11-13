@@ -241,7 +241,7 @@ ol {
 /* Fact box */
 
 .fact-box {
-    height: 375px;
+    height: 250px;
     display: table;
     width: 100%;
     background: #40424a;
@@ -258,7 +258,7 @@ ol {
 }
 
 .fact-box .fact-content img {
-    width: 60px;
+    width: 50px;
     margin-bottom: 30px;
 }
 
